@@ -1,0 +1,2 @@
+severity	updateDate	comments	line	author	rule	project	effort	messageFormattings	message	creationDate	type	quickFixAvailable	tags	component	flows	scope	textRange	debt	key	hash	status
+MAJOR	2023-03-07T02:54:15+0000		24.0		java:S108	Kafka:-Fast-delegate-evolu-o-e-cluster-de-brokers	5min		Nested blocks of code should not be left empty	2023-03-07T02:54:15+0000	CODE_SMELL	false	suspicious /	Kafka:-Fast-delegate-evolu-o-e-cluster-de-brokers:		MAIN	{startLine=50.0, endLine=50.0, startOffset=4.0, endOffset=27.0}	5min	AYa5_c9S1m6JgciZ3N_h	d9cb36fab0d0e0f8e7fca1f9f52d2cca	OPEN

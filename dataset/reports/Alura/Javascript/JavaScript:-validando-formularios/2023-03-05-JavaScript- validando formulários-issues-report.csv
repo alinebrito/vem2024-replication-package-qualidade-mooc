@@ -1,0 +1,2 @@
+severity	updateDate	comments	line	author	rule	project	effort	messageFormattings	message	creationDate	type	quickFixAvailable	tags	component	flows	scope	textRange	debt	key	hash	status
+MAJOR	2023-03-05T21:19:33+0000		2.0		javascript:S6035	JavaScript:-validando-formularios	5min		Replace this alternation with a character class.	2023-03-05T21:19:33+0000	CODE_SMELL	false	"regex / "	JavaScript:-validando-formularios:monibank-aula05/js/valida-cpf.js		MAIN	{startLine=2.0, endLine=2.0, startOffset=37.0, endOffset=41.0}	5min	AYazpRuw1m6JgciZ1shL	b37cdb446b1a018722d96494e3f92fc9	OPEN
